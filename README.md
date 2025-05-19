@@ -18,8 +18,7 @@
 
 ------
 
-~~怎么还没有人贡献~~
-现在有了（bushi
+~~怎么还没有人贡献~~ 现在有了（）
 
 ## Stargazers over time
 [![Stargazers over time](https://starchart.cc/fuydg/Those-fun-roundups.svg?variant=adaptive)](https://starchart.cc/fuydg/Those-fun-roundups)
