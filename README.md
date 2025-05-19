@@ -11,10 +11,14 @@
 [#16819](https://github.com/langgenius/dify/pull/16819)
 - 這年頭法人帶頭抄襲眼睛都不帶眨一下的嗎？
 [#9](https://github.com/ITRI-BDL-D/CQL-Project-template/issues/9)
+- 马化腾骨灰盒后续 老登们，开年一两个月了，OKR定了吗，打包的问题要开几个会才能解决啊?
+[#270](https://github.com/TencentCloud/tencentcloud-sdk-nodejs/issues/270)
+- 腾讯云go sdk 一个年龄7年repo 1.6k commit 有20w个tag 导致go get拉取直接timeout
+[#280](https://github.com/TencentCloud/tencentcloud-sdk-go/issues/280)
 
 ------
 
-~~怎么还没有人贡献~~
+~~怎么还没有人贡献~~ 现在有了（）
 
 ## Stargazers over time
 [![Stargazers over time](https://starchart.cc/fuydg/Those-fun-roundups.svg?variant=adaptive)](https://starchart.cc/fuydg/Those-fun-roundups)
